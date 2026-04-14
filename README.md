@@ -1,9 +1,6 @@
-## Hi there 👋
+# hello everybuddy 👋
 
-### 🛠 STACK TECHNOLOGIES
 
-**System & DevOps**
-[![DevOps](https://skillicons.dev/icons?i=linux,docker,debian,bash,virtbox)](https://skillicons.dev)
+### stack technologies:
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,docker,postgres,fastapi,react,ts,git,github,vscode&perline=5)](https://skillicons.dev)
 
-**Backend Development**
-[![Backend](https://skillicons.dev/icons?i=py,fastapi,postgres)](https://skillicons.dev)
