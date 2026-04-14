@@ -2,5 +2,5 @@
 
 
 ### stack technologies:
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,docker,postgres,fastapi,react,ts,git,github,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,docker,postgres,fastapi,git,github,vscode&perline=5)](https://skillicons.dev)
 
